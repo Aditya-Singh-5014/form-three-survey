@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Aditya-Singh-5014/form-three-survey/static/css/main.66be0e53.css",
+    "main.js": "/Aditya-Singh-5014/form-three-survey/static/js/main.c50e7b8c.js",
+    "static/js/453.1c580d6d.chunk.js": "/Aditya-Singh-5014/form-three-survey/static/js/453.1c580d6d.chunk.js",
+    "index.html": "/Aditya-Singh-5014/form-three-survey/index.html",
+    "main.66be0e53.css.map": "/Aditya-Singh-5014/form-three-survey/static/css/main.66be0e53.css.map",
+    "main.c50e7b8c.js.map": "/Aditya-Singh-5014/form-three-survey/static/js/main.c50e7b8c.js.map",
+    "453.1c580d6d.chunk.js.map": "/Aditya-Singh-5014/form-three-survey/static/js/453.1c580d6d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66be0e53.css",
+    "static/js/main.c50e7b8c.js"
+  ]
+}
